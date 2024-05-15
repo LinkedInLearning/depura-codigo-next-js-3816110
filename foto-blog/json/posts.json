@@ -1,0 +1,394 @@
+[
+    {
+        "idPost": 1,
+        "usuario": {
+            "idUnico": 2,
+            "nombreCompleto": "María García",
+            "nombreUsuario": "mariagarcia456",
+            "ciudad": "Buenos Aires"
+        },
+        "imagenUrl": "./imagenes/Autumn leaves_LIL_134164.jpg",
+        "descripcion": "Descripción del post 1",
+        "comentarios": [
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 56
+    },
+    {
+        "idPost": 2,
+        "usuario": {
+            "idUnico": 9,
+            "nombreCompleto": "Sergio Gutiérrez",
+            "nombreUsuario": "sergiogutierrez22",
+            "ciudad": "Quito"
+        },
+        "imagenUrl": "./imagenes/Beach with a building_LIL_134146.jpg",
+        "descripcion": "Descripción del post 2",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 27
+    },
+    {
+        "idPost": 3,
+        "usuario": {
+            "idUnico": 7,
+            "nombreCompleto": "Diego Pérez",
+            "nombreUsuario": "diegoperez55",
+            "ciudad": "Santiago"
+        },
+        "imagenUrl": "./imagenes/Cat inside_LIL_134199.jpg",
+        "descripcion": "Descripción del post 3",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12"
+        ],
+        "totalMeGusta": 99
+    },
+    {
+        "idPost": 4,
+        "usuario": {
+            "idUnico": 6,
+            "nombreCompleto": "Laura Sánchez",
+            "nombreUsuario": "laurasanchez888",
+            "ciudad": "Bogotá"
+        },
+        "imagenUrl": "./imagenes/Cat_LIL_134138.jpg",
+        "descripcion": "Descripción del post 4",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 81
+    },
+    {
+        "idPost": 5,
+        "usuario": {
+            "idUnico": 3,
+            "nombreCompleto": "Carlos López",
+            "nombreUsuario": "carloslopez789",
+            "ciudad": "Madrid"
+        },
+        "imagenUrl": "./imagenes/Cattails_LIL_134136.jpg",
+        "descripcion": "Descripción del post 5",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10"
+        ],
+        "totalMeGusta": 69
+    },
+    {
+        "idPost": 6,
+        "usuario": {
+            "idUnico": 2,
+            "nombreCompleto": "María García",
+            "nombreUsuario": "mariagarcia456",
+            "ciudad": "Buenos Aires"
+        },
+        "imagenUrl": "./imagenes/Coit Tower_LIL_9679.jpg",
+        "descripcion": "Descripción del post 6",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 45
+    },
+    {
+        "idPost": 7,
+        "usuario": {
+            "idUnico": 1,
+            "nombreCompleto": "Juan Pérez",
+            "nombreUsuario": "juanperez123",
+            "ciudad": "Ciudad de México"
+        },
+        "imagenUrl": "./imagenes/Colorful paper rolls_LIL_134137.jpg",
+        "descripcion": "Descripción del post 7",
+        "comentarios": [
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 14
+    },
+    {
+        "idPost": 8,
+        "usuario": {
+            "idUnico": 9,
+            "nombreCompleto": "Sergio Gutiérrez",
+            "nombreUsuario": "sergiogutierrez22",
+            "ciudad": "Quito"
+        },
+        "imagenUrl": "./imagenes/Colorful sunset_LIL_134216.jpg",
+        "descripcion": "Descripción del post 8",
+        "comentarios": [
+            "Comentario 20"
+        ],
+        "totalMeGusta": 72
+    },
+    {
+        "idPost": 9,
+        "usuario": {
+            "idUnico": 8,
+            "nombreCompleto": "Carolina Fernández",
+            "nombreUsuario": "carofernandez999",
+            "ciudad": "Montevideo"
+        },
+        "imagenUrl": "./imagenes/Conservatory_LIL_9680.jpg",
+        "descripcion": "Descripción del post 9",
+        "comentarios": [
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 3
+    },
+    {
+        "idPost": 10,
+        "usuario": {
+            "idUnico": 10,
+            "nombreCompleto": "Natalia Corea",
+            "nombreUsuario": "natyc",
+            "ciudad": "San José"
+        },
+        "imagenUrl": "./imagenes/Downtown from Twin Peaks_LIL_9681.jpg",
+        "descripcion": "Descripción del post 10",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 58
+    },
+    {
+        "idPost": 11,
+        "usuario": {
+            "idUnico": 10,
+            "nombreCompleto": "Natalia Corea",
+            "nombreUsuario": "natyc",
+            "ciudad": "San José"
+        },
+        "imagenUrl": "./imagenes/Flowering plant _LIL_134193.jpg",
+        "descripcion": "Descripción del post 11",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 2
+    },
+    {
+        "idPost": 12,
+        "usuario": {
+            "idUnico": 10,
+            "nombreCompleto": "Natalia Corea",
+            "nombreUsuario": "natyc",
+            "ciudad": "San José"
+        },
+        "imagenUrl": "./imagenes/Flowering plant_LIL_134187.jpg",
+        "descripcion": "Descripción del post 12",
+        "comentarios": [
+            "Comentario 20"
+        ],
+        "totalMeGusta": 61
+    },
+    {
+        "idPost": 13,
+        "usuario": {
+            "idUnico": 1,
+            "nombreUsuario": "juanperez123"
+        },
+        "imagenUrl": "./imagenes/Flowering plant_LIL_134188.jpg",
+        "descripcion": "Descripción del post 13",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 70
+    },
+    {
+        "idPost": 14,
+        "usuario": {
+            "idUnico": 4,
+            "nombreCompleto": "Ana Martínez",
+            "nombreUsuario": "anamartinez10",
+            "ciudad": "Barcelona"
+        },
+        "imagenUrl": "./imagenes/Flowers_LIL_134177.jpg",
+        "descripcion": "Descripción del post 14",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12"
+        ],
+        "totalMeGusta": 19
+    },
+    {
+        "idPost": 15,
+        "usuario": {
+            "idUnico": 7,
+            "nombreCompleto": "Diego Pérez",
+            "nombreUsuario": "diegoperez55",
+            "ciudad": "Santiago"
+        },
+        "imagenUrl": "./imagenes/Forest_LIL_134133.jpg",
+        "descripcion": "Descripción del post 15",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 75
+    },
+    {
+        "idPost": 16,
+        "usuario": {
+            "idUnico": 6,
+            "nombreCompleto": "Laura Sánchez",
+            "nombreUsuario": "laurasanchez888",
+            "ciudad": "Bogotá"
+        },
+        "imagenUrl": "./imagenes/Golden Gate Bridge from Presidio_LIL_9682.jpg",
+        "descripcion": "Descripción del post 16",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 40
+    },
+    {
+        "idPost": 17,
+        "usuario": {
+            "idUnico": 3,
+            "nombreCompleto": "Carlos López",
+            "nombreUsuario": "carloslopez789",
+            "ciudad": "Madrid"
+        },
+        "imagenUrl": "./imagenes/Joshua Tree and California coast_LIL_9664.jpg",
+        "descripcion": "Descripción del post 17",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 89
+    },
+    {
+        "idPost": 18,
+        "usuario": {
+            "idUnico": 4,
+            "nombreCompleto": "Ana Martínez",
+            "nombreUsuario": "anamartinez10",
+            "ciudad": "Barcelona"
+        },
+        "imagenUrl": "./imagenes/Joshua Tree and California coast_LIL_9670.jpg",
+        "descripcion": "Descripción del post 18",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12"
+        ],
+        "totalMeGusta": 66
+    },
+    {
+        "idPost": 19,
+        "usuario": {
+            "idUnico": 8,
+            "nombreCompleto": "Carolina Fernández",
+            "nombreUsuario": "carofernandez999",
+            "ciudad": "Montevideo"
+        },
+        "imagenUrl": "./imagenes/Logs_LIL_134130.jpg",
+        "descripcion": "Descripción del post 19",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 95
+    },
+    {
+        "idPost": 20,
+        "usuario": {
+            "idUnico": 10,
+            "nombreCompleto": "Natalia Corea",
+            "nombreUsuario": "natyc",
+            "ciudad": "San José"
+        },
+        "imagenUrl": "./imagenes/Point Reyes_ California_LIL_9672.jpg",
+        "descripcion": "Descripción del post 20",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 48
+    },
+    {
+        "idPost": 21,
+        "usuario": {
+            "idUnico": 7,
+            "nombreCompleto": "Diego Pérez",
+            "nombreUsuario": "diegoperez55",
+            "ciudad": "Santiago"
+        },
+        "imagenUrl": "./imagenes/Stack of books_LIL_134182.jpg",
+        "descripcion": "Descripción del post 21",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 11",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 30
+    },
+    {
+        "idPost": 22,
+        "usuario": {
+            "idUnico": 6,
+            "nombreCompleto": "Laura Sánchez",
+            "nombreUsuario": "laurasanchez888",
+            "ciudad": "Bogotá"
+        },
+        "imagenUrl": "./imagenes/Sun over mountains_LIL_134158.jpg",
+        "descripcion": "Descripción del post 22",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20"
+        ],
+        "totalMeGusta": 22
+    },
+    {
+        "idPost": 23,
+        "usuario": {
+            "idUnico": 1,
+            "nombreUsuario": "juanperez123"
+        },
+        "imagenUrl": "./imagenes/Sunset over water_LIL_134196.jpg",
+        "descripcion": "Descripción del post 23",
+        "comentarios": [
+            "Comentario 19",
+            "Comentario 10",
+            "Comentario 12",
+            "Comentario 20",
+            "Comentario 22",
+            "Comentario 23"
+        ],
+        "totalMeGusta": 82
+    }
+]
