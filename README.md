@@ -38,7 +38,7 @@ Este repositorio tiene dos ramas (branches). La rama `desafio` contiene la versi
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 3. Corre el comando `npm install` dentro de la carpeta de la aplicación para instalar las dependencias.
-3. Corre el comando `npm start` para inicializar la aplicación.
+3. Corre el comando `npm run dev` para inicializar la aplicación.
 
 ### Docente
 
