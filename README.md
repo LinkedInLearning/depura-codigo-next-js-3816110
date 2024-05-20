@@ -26,19 +26,19 @@ DESCRIPCIÓN DEL CURSO
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
-
-## Ramas
-
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+Este repositorio tiene dos ramas (branches). La rama `desafio` contiene la versión del código que contiene el código con errores. La rama `solucion` contiene la versión de la aplicación con los errores resueltos. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/desafio` o  `/tree/solucion` a la URL para ir a la rama a la que quieres acceder.
 
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
+   - [Node.js](https://nodejs.org/en/)
+   - Un editor de código ([VS Code](https://code.visualstudio.com/) es recomendado)
+   - Un navegador web
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Corre el comando `npm install` dentro de la carpeta de la aplicación para instalar las dependencias.
+3. Corre el comando `npm start` para inicializar la aplicación.
 
 ### Docente
 
