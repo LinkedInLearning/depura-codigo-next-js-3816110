@@ -47,7 +47,7 @@ Este repositorio tiene dos ramas (branches). La rama `desafio` contiene la versi
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/natalia-corea).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-next-js
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4E0DAQFMT2pNTHrW4w/learning-public-crop_675_1200/0/1721032924512?e=2147483647&v=beta&t=k4kf77kgqjpJcAqIr6arRDD4JJNWMqvfn5L_9bsstJA
 
 [1]: # (End of ES-Instruction ###############################################################################################)
